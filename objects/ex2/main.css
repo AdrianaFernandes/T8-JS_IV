@@ -1,9 +1,11 @@
 .img-rounded {
+  margin-top: 20px;
   border-radius: 50%;
   width: 100px;
   height: 100px;
 }
 .avatar {
+  margin-top: 20px;
   width: 20%;
   display: inline-block;
   text-align: center;
